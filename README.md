@@ -2,7 +2,7 @@
 
 ### Where is everything?
 
-* Solutions are name day#_#.py, where the first number is the day (1-25) and the second number is the star (1-2)
+* Solutions are name day#.#.py, where the first number is the day (1-25) and the second number is the star (1-2)
 * Sample inputs are files in `samples`
 * Puzzle inputs are files in `input`
 
@@ -12,7 +12,7 @@ By default, the scripts take one argument which should be the path to the puzzle
 
 Example:
 ```shell
-./day1_1.py samples/day1.txt
+./day1.1.py samples/day1.txt
 
-./day1_1.py input/day1.txt
+./day1.1.py input/day1.txt
 ```
