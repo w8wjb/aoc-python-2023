@@ -17,7 +17,7 @@ for line in lines:
 
     rounds = [r.strip() for r in round_list.split(";")]
 
-    color_max = {"red":1, "green":1, "blue":1}
+    color_max = {"red":0, "green":0, "blue":0}
 
     for round in rounds:
         pairs = [p.strip() for p in round.split(",")]
