@@ -94,5 +94,51 @@
             "console": "integratedTerminal",
             "justMyCode": false
         },
+
+
+        {
+            "name": "Day 3.1 Sample",
+            "type": "python",
+            "request": "launch",
+            "program": "day3.1.py",
+            "args": [
+                "samples/day3.txt"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "Day 3.1 Input",
+            "type": "python",
+            "request": "launch",
+            "program": "day3.1.py",
+            "args": [
+                "input/day3.txt"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "Day 3.2 Sample",
+            "type": "python",
+            "request": "launch",
+            "program": "day3.2.py",
+            "args": [
+                "samples/day3.txt"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "Day 3.2 Input",
+            "type": "python",
+            "request": "launch",
+            "program": "day3.2.py",
+            "args": [
+                "input/day3.txt"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
     ]
 }
