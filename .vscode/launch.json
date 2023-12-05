@@ -187,5 +187,50 @@
             "justMyCode": false
         },
  
+        {
+            "name": "Day 5.1 Sample",
+            "type": "python",
+            "request": "launch",
+            "program": "day5.1.py",
+            "args": [
+                "samples/day5.txt"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "Day 5.1 Input",
+            "type": "python",
+            "request": "launch",
+            "program": "day5.1.py",
+            "args": [
+                "input/day5.txt"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "Day 5.2 Sample",
+            "type": "python",
+            "request": "launch",
+            "program": "day5.2.py",
+            "args": [
+                "samples/day5.txt"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "Day 5.2 Input",
+            "type": "python",
+            "request": "launch",
+            "program": "day5.2.py",
+            "args": [
+                "input/day5.txt"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+ 
     ]
 }
