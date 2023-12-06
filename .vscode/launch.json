@@ -232,5 +232,50 @@
             "justMyCode": false
         },
  
+ 
+        {
+            "name": "Day 6.1 Sample",
+            "type": "python",
+            "request": "launch",
+            "program": "day6.1.py",
+            "args": [
+                "samples/day6.txt"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "Day 6.1 Input",
+            "type": "python",
+            "request": "launch",
+            "program": "day6.1.py",
+            "args": [
+                "input/day6.txt"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "Day 6.2 Sample",
+            "type": "python",
+            "request": "launch",
+            "program": "day6.2.py",
+            "args": [
+                "samples/day6.txt"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "Day 6.2 Input",
+            "type": "python",
+            "request": "launch",
+            "program": "day6.2.py",
+            "args": [
+                "input/day6.txt"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
     ]
 }
