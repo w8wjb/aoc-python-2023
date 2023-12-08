@@ -277,5 +277,51 @@
             "console": "integratedTerminal",
             "justMyCode": false
         },
+ 
+        {
+            "name": "Day 7.1 Sample",
+            "type": "python",
+            "request": "launch",
+            "program": "day7.1.py",
+            "args": [
+                "samples/day7.txt"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "Day 7.1 Input",
+            "type": "python",
+            "request": "launch",
+            "program": "day7.1.py",
+            "args": [
+                "input/day7.txt"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "Day 7.2 Sample",
+            "type": "python",
+            "request": "launch",
+            "program": "day7.2.py",
+            "args": [
+                "samples/day7.txt"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "Day 7.2 Input",
+            "type": "python",
+            "request": "launch",
+            "program": "day7.2.py",
+            "args": [
+                "input/day7.txt"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+ 
     ]
 }
