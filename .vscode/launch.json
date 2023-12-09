@@ -322,6 +322,51 @@
             "console": "integratedTerminal",
             "justMyCode": false
         },
+  
+        {
+            "name": "Day 8.1 Sample",
+            "type": "python",
+            "request": "launch",
+            "program": "day8.1.py",
+            "args": [
+                "samples/day8.1.txt"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "Day 8.1 Input",
+            "type": "python",
+            "request": "launch",
+            "program": "day8.1.py",
+            "args": [
+                "input/day8.txt"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "Day 8.2 Sample",
+            "type": "python",
+            "request": "launch",
+            "program": "day8.2.py",
+            "args": [
+                "samples/day8.1.txt"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "Day 8.2 Input",
+            "type": "python",
+            "request": "launch",
+            "program": "day8.2.py",
+            "args": [
+                "input/day8.txt"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
  
     ]
 }
