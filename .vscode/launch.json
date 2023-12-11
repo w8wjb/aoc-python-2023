@@ -368,5 +368,168 @@
             "justMyCode": false
         },
  
+
+        {
+            "name": "Day 9.1 Sample",
+            "type": "python",
+            "request": "launch",
+            "program": "day9.1.py",
+            "args": [
+                "samples/day9.txt"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "Day 9.1 Input",
+            "type": "python",
+            "request": "launch",
+            "program": "day9.1.py",
+            "args": [
+                "input/day9.txt"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "Day 9.2 Sample",
+            "type": "python",
+            "request": "launch",
+            "program": "day9.2.py",
+            "args": [
+                "samples/day9.txt"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "Day 9.2 Input",
+            "type": "python",
+            "request": "launch",
+            "program": "day9.2.py",
+            "args": [
+                "input/day9.txt"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+ 
+
+        {
+            "name": "Day 10.1 Sample 1",
+            "type": "python",
+            "request": "launch",
+            "program": "day10.1.py",
+            "args": [
+                "samples/day10.1.1.txt"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "Day 10.1 Input",
+            "type": "python",
+            "request": "launch",
+            "program": "day10.1.py",
+            "args": [
+                "input/day10.txt"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "Day 10.2 Sample 1",
+            "type": "python",
+            "request": "launch",
+            "program": "day10.2.py",
+            "args": [
+                "samples/day10.2.1.txt"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "Day 10.2 Sample 2",
+            "type": "python",
+            "request": "launch",
+            "program": "day10.2.py",
+            "args": [
+                "samples/day10.2.2.txt"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },        {
+            "name": "Day 10.2 Input",
+            "type": "python",
+            "request": "launch",
+            "program": "day10.2.py",
+            "args": [
+                "input/day10.txt"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+ 
+
+        {
+            "name": "Day 11.1 Sample",
+            "type": "python",
+            "request": "launch",
+            "program": "day11.1.py",
+            "args": [
+                "samples/day11.txt"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "Day 11.1 Input",
+            "type": "python",
+            "request": "launch",
+            "program": "day11.1.py",
+            "args": [
+                "input/day11.txt"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "Day 11.2 Sample 1",
+            "type": "python",
+            "request": "launch",
+            "program": "day11.2.py",
+            "args": [
+                "samples/day11.txt",
+                "10"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "Day 11.2 Sample 2",
+            "type": "python",
+            "request": "launch",
+            "program": "day11.2.py",
+            "args": [
+                "samples/day11.txt",
+                "100"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "Day 11.2 Input",
+            "type": "python",
+            "request": "launch",
+            "program": "day11.2.py",
+            "args": [
+                "input/day11.txt",
+                "1000000"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+ 
+
     ]
 }
