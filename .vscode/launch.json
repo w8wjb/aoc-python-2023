@@ -475,9 +475,10 @@
             "name": "Day 11.1 Sample",
             "type": "python",
             "request": "launch",
-            "program": "day11.1.py",
+            "program": "day11.py",
             "args": [
-                "samples/day11.txt"
+                "samples/day11.txt",
+                "2"
             ],
             "console": "integratedTerminal",
             "justMyCode": false
@@ -486,9 +487,10 @@
             "name": "Day 11.1 Input",
             "type": "python",
             "request": "launch",
-            "program": "day11.1.py",
+            "program": "day11.py",
             "args": [
-                "input/day11.txt"
+                "input/day11.txt",
+                "2"
             ],
             "console": "integratedTerminal",
             "justMyCode": false
@@ -497,7 +499,7 @@
             "name": "Day 11.2 Sample 1",
             "type": "python",
             "request": "launch",
-            "program": "day11.2.py",
+            "program": "day11.py",
             "args": [
                 "samples/day11.txt",
                 "10"
@@ -509,7 +511,7 @@
             "name": "Day 11.2 Sample 2",
             "type": "python",
             "request": "launch",
-            "program": "day11.2.py",
+            "program": "day11.py",
             "args": [
                 "samples/day11.txt",
                 "100"
@@ -521,7 +523,7 @@
             "name": "Day 11.2 Input",
             "type": "python",
             "request": "launch",
-            "program": "day11.2.py",
+            "program": "day11.py",
             "args": [
                 "input/day11.txt",
                 "1000000"

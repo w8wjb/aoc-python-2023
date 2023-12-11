@@ -42,7 +42,7 @@ Vector.ADJACENT_MOVES = (
 
 class Point(Vector):
     def __add__(self, other):
-        if isinstance(other, object):
+        if isinstance(other, Point):
             return Point(self.x + other.x, self.y + other.y)
         if isinstance(other, (List, Tuple)):
             return Point(self.x + other[0], self.y + other[1])
@@ -56,11 +56,7 @@ class Point(Vector):
         raise f"attempt to subtract an inappropriate value {other}"
 
     def __gt__(self, other: "Point") -> bool:
-        if self.x == self.x:
-            return self.y > other.y
-        return self.x > other.x
+        return (self.x, self.y) > (other.x, other.y)
 
     def __lt__(self, other: "Point") -> bool:
-        if self.x == self.x:
-            return self.y < other.y
-        return self.x < other.x
+        return (self.x, self.y) < (other.x, other.y)
